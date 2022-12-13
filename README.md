@@ -9,3 +9,13 @@ Inisialisasi User Interface, menambahkan actions atau tindakan ke buttons dan me
 
 Reference :
 https://data-flair.training/blogs/java-tic-tac-toe-game/#:~:text=Step%20to%20build%20Tic-Tac-Toe%20game%20using%20java%3A%201,4%204.%20Function%20to%20check%20the%20winner%3A%20
+
+Aspek OOP FP :
+Constructor
+Override
+Encapsulation
+Polymorphism
+GUI
+Exception Handling
+Input Output
+Interface
