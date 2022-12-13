@@ -1,2 +1,0 @@
-GameTicTacToe.TicTacToe
-Main.NewClass
